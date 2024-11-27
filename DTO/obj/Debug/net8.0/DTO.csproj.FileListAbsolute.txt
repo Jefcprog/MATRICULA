@@ -1,0 +1,11 @@
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\bin\Debug\net8.0\MATRICULA.DTO.deps.json
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\bin\Debug\net8.0\MATRICULA.DTO.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\bin\Debug\net8.0\MATRICULA.DTO.pdb
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\MATRICULA.DTO.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\refint\MATRICULA.DTO.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\MATRICULA.DTO.pdb
+C:\Users\LABORATORIO SQL\source\repos\Taller\DTO\obj\Debug\net8.0\ref\MATRICULA.DTO.dll

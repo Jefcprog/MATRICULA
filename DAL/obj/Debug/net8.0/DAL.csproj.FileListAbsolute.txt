@@ -1,0 +1,17 @@
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\bin\Debug\net8.0\MATRICULA.DAL.deps.json
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\bin\Debug\net8.0\MATRICULA.DAL.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\bin\Debug\net8.0\MATRICULA.DAL.pdb
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\bin\Debug\net8.0\MATRICULA.DTO.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\bin\Debug\net8.0\MATRICULA.DTO.pdb
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\MATRICULA.DAL.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\refint\MATRICULA.DAL.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\MATRICULA.DAL.pdb
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\ref\MATRICULA.DAL.dll
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\bin\Debug\net8.0\MATRICULA.DAL.runtimeconfig.json
+C:\Users\LABORATORIO SQL\source\repos\Taller\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
