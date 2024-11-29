@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MATRICULA.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38cf8cd137bd7faf062077aaa7b4b365dd816d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("MATRICULA.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MATRICULA.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

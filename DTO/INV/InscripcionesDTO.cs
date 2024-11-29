@@ -15,5 +15,5 @@ public partial class InscripcionesDTO
 
     public virtual CursosDTO Curso { get; set; } = null!;
 
-    public virtual Estudiante Estudiante { get; set; } = null!;
+    public virtual EstudiantesDTO Estudiante { get; set; } = null!;
 }
